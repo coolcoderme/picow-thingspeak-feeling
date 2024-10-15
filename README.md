@@ -2,7 +2,11 @@
 
 This project uses the write api key in thingspeak - thingspeak.com
 
+Basically this project uses 5 buttons, breadboard, jumper wires and the Raspberry Pi Pico W.
 
+put the picozero file in the Pico.
+
+run the main.py file. do not for
 
 Thank you to Raspberry Pi Foundation for letting me use picozero. 
 
