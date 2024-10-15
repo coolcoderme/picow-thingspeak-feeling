@@ -4,11 +4,13 @@ This project uses the write api key in thingspeak - thingspeak.com
 
 Basically this project uses 5 buttons, breadboard, jumper wires and the Raspberry Pi Pico W.
 
-put the picozero file in the Pico.
+put the picozero file in the Pico. - which is in the internet.
 
 run the main.py file. 
 
-WARNING : do not forget to change the wifi ssid, password, and thingspeak api id in lines 14, 15, 16
+WARNING : do not forget to change the wifi ssid, password, and thingspeak api id in lines 14, 15, 16 in main.
+
+sad,happy,angry,scared,disgusted should be the field labels 1,2,3,4,5 in thingspeak. 
 
 Thank you to Raspberry Pi Foundation for letting me use picozero. 
 
