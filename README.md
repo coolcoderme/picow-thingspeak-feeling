@@ -6,7 +6,9 @@ Basically this project uses 5 buttons, breadboard, jumper wires and the Raspberr
 
 put the picozero file in the Pico.
 
-run the main.py file. do not for
+run the main.py file. 
+
+WARNING : do not forget to change the wifi ssid, password, and thingspeak api id in lines 14, 15, 16
 
 Thank you to Raspberry Pi Foundation for letting me use picozero. 
 
